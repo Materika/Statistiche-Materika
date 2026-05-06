@@ -1,6 +1,6 @@
 {
   "v": 4,
-  "at": "2026-05-06T10:15:12.199Z",
+  "at": "2026-05-06T10:16:49.801Z",
   "refM": 3,
   "period": "mese",
   "yc": {
@@ -21,7 +21,7 @@
     "materika": {
       "m": {
         "preventivi": [
-          null,
+          1,
           null,
           null,
           null,
