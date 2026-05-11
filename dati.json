@@ -1,6 +1,6 @@
 {
   "v": 4,
-  "at": "2026-05-11T06:44:31.483Z",
+  "at": "2026-05-11T06:44:49.254Z",
   "refM": 3,
   "period": "mese",
   "yc": {
@@ -591,10 +591,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          2,
+          3,
+          32,
+          2,
           null,
           null,
           null,
