@@ -1,6 +1,6 @@
 {
   "v": 4,
-  "at": "2026-05-08T15:42:36.485Z",
+  "at": "2026-05-11T06:44:31.483Z",
   "refM": 3,
   "period": "mese",
   "yc": {
@@ -533,10 +533,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          0,
+          0,
+          0,
+          1,
           null,
           null,
           null,
@@ -2224,7 +2224,8 @@
   "deptTgts": {
     "nicola:fatturato": 20000,
     "mike:fatturato": 150000,
-    "nicola:preventivi": 400
+    "nicola:preventivi": 400,
+    "carlo:fatturato": 20000
   },
   "dismissed": []
 }
