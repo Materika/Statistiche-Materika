@@ -1,7 +1,7 @@
 {
   "v": 4,
-  "at": "2026-05-11T06:44:49.254Z",
-  "refM": 3,
+  "at": "2026-05-13T12:00:25.950Z",
+  "refM": 4,
   "period": "mese",
   "yc": {
     "23": {
@@ -13,7 +13,7 @@
       "vis": false
     },
     "25": {
-      "color": "#6b7280",
+      "color": "#ff4013",
       "vis": true
     }
   },
@@ -21,10 +21,10 @@
     "materika": {
       "m": {
         "preventivi": [
-          1,
-          null,
-          null,
-          null,
+          434285,
+          110782,
+          143327,
+          176422,
           null,
           null,
           null,
@@ -35,11 +35,11 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          86543,
+          144179,
+          203526,
+          149790,
+          39869,
           null,
           null,
           null,
@@ -49,11 +49,11 @@
           null
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          85079,
+          109615,
+          156660,
+          143562,
+          138248,
           null,
           null,
           null,
@@ -63,10 +63,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          103169,
+          110857,
+          147216,
+          152409,
           null,
           null,
           null,
@@ -79,60 +79,60 @@
       },
       "m25": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          15432,
+          199023,
+          186672,
+          35170,
+          74595,
+          81485,
+          228811,
+          28328,
+          96880,
+          67454,
+          103620,
+          67511
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          214903,
+          174286,
+          148935,
+          164040,
+          143386,
+          115400,
+          144442,
+          21379,
+          171455,
+          130874,
+          115233,
+          112879
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          179769,
+          131621,
+          171663,
+          135590,
+          155974,
+          155563,
+          139174,
+          27844,
+          137530,
+          160433,
+          126796,
+          146096
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          155473,
+          142420,
+          154123,
+          133055,
+          182073,
+          150419,
+          162720,
+          20425,
+          154057,
+          183475,
+          136952,
+          101658
         ]
       },
       "m24": {
@@ -256,11 +256,11 @@
     "mike": {
       "m": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          633902,
+          143859,
+          192008,
+          127931,
+          10203,
           null,
           null,
           null,
@@ -270,11 +270,11 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          176883,
+          226871,
+          175802,
+          111301,
+          21847,
           null,
           null,
           null,
@@ -284,11 +284,11 @@
           null
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          142184,
+          103949,
+          120575,
+          153947,
+          154554,
           null,
           null,
           null,
@@ -298,10 +298,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          116046,
+          116239,
+          151124,
+          161478,
           null,
           null,
           null,
@@ -314,60 +314,60 @@
       },
       "m25": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          0,
+          0,
+          2899,
+          134780,
+          36498,
+          109820,
+          60556,
+          16424,
+          175029,
+          199300,
+          196346,
+          76143
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          162322,
+          267373,
+          120840,
+          82600,
+          69745,
+          129088,
+          90419,
+          7764,
+          138925,
+          119432,
+          125559,
+          195045
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          73494,
+          60715,
+          100696,
+          72082,
+          103669,
+          93869,
+          104926,
+          80619,
+          87890,
+          108062,
+          126483,
+          78997
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          97770,
+          81066,
+          118879,
+          87485,
+          121691,
+          117373,
+          129805,
+          26854,
+          115104,
+          143247,
+          116903,
+          67389
         ]
       },
       "m24": {
@@ -491,10 +491,10 @@
     "carlo": {
       "m": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
+          0,
+          99735,
+          180465,
+          48454,
           null,
           null,
           null,
@@ -505,11 +505,11 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          0,
+          3043,
+          24805,
+          4579,
+          2670,
           null,
           null,
           null,
@@ -519,11 +519,11 @@
           null
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          0,
+          0,
+          7516,
+          8834,
+          9230,
           null,
           null,
           null,
@@ -535,8 +535,8 @@
         "fatturato": [
           0,
           0,
-          0,
-          1,
+          8652,
+          10247,
           null,
           null,
           null,
@@ -591,10 +591,10 @@
           null
         ],
         "fatturato": [
-          2,
-          3,
-          32,
-          2,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null,
@@ -739,18 +739,18 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              5,
+              0,
+              2,
+              0
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              6,
+              6,
+              12,
+              8,
+              12
             ],
             [
               null,
@@ -812,8 +812,8 @@
           "tgts": [
             null,
             null,
-            null,
-            null,
+            50,
+            50,
             null,
             null,
             null,
@@ -841,18 +841,18 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              4,
+              7,
+              1,
+              0
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              3,
+              3,
+              1,
+              2
             ],
             [
               null,
@@ -914,8 +914,8 @@
           "tgts": [
             null,
             null,
-            null,
-            null,
+            10,
+            10,
             null,
             null,
             null,
@@ -943,18 +943,18 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              0,
+              0,
+              3,
+              0
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              2,
+              4,
+              4,
+              4,
+              3
             ],
             [
               null,
@@ -1016,8 +1016,8 @@
           "tgts": [
             null,
             null,
-            null,
-            null,
+            10,
+            10,
             null,
             null,
             null,
@@ -1045,18 +1045,18 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              122000,
+              152000,
+              20605,
+              0
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              26515,
+              2071,
+              886,
+              17200,
+              56920
             ],
             [
               null,
@@ -1118,8 +1118,8 @@
           "tgts": [
             null,
             null,
-            null,
-            null,
+            20000,
+            20000,
             null,
             null,
             null,
@@ -1147,18 +1147,18 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              5764,
+              11547,
+              1051,
+              5843,
+              0
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              0,
+              0,
+              886,
+              0,
+              3223
             ],
             [
               null,
@@ -1220,8 +1220,8 @@
           "tgts": [
             null,
             null,
-            null,
-            null,
+            5000,
+            5000,
             null,
             null,
             null,
@@ -1237,10 +1237,10 @@
     "nicola": {
       "m": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
+          3162,
+          45991,
+          192984,
+          13894,
           null,
           null,
           null,
@@ -1251,11 +1251,11 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          2219,
+          4705,
+          37388,
+          5830,
+          2671,
           null,
           null,
           null,
@@ -1265,11 +1265,11 @@
           null
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          2292,
+          9375,
+          2090,
+          28613,
+          7342,
           null,
           null,
           null,
@@ -1279,10 +1279,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          2298,
+          9751,
+          14026,
+          11075,
           null,
           null,
           null,
@@ -1301,12 +1301,12 @@
           null,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          1635,
+          5930,
+          24209,
+          83219,
+          24715,
+          22157
         ],
         "venduto": [
           null,
@@ -1315,12 +1315,12 @@
           null,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          1875,
+          0,
+          0,
+          10908,
+          7075,
+          6090
         ],
         "ordinato": [
           null,
@@ -1329,12 +1329,12 @@
           null,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          240,
+          0,
+          1635,
+          0,
+          4168,
+          10490
         ],
         "fatturato": [
           null,
@@ -1343,12 +1343,12 @@
           null,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          232,
+          0,
+          1663,
+          2448,
+          1720,
+          9385
         ]
       },
       "m24": {
@@ -1492,11 +1492,11 @@
               null
             ],
             [
-              1,
-              1,
-              1,
-              1,
-              1
+              null,
+              null,
+              null,
+              null,
+              null
             ],
             [
               null,
@@ -1559,7 +1559,7 @@
             null,
             null,
             null,
-            10,
+            null,
             null,
             null,
             null,
@@ -1798,11 +1798,11 @@
               null
             ],
             [
-              10,
-              10,
-              10,
-              10,
-              5
+              null,
+              null,
+              null,
+              null,
+              null
             ],
             [
               null,
@@ -1865,7 +1865,7 @@
             null,
             null,
             null,
-            200,
+            null,
             null,
             null,
             null,
@@ -1983,10 +1983,10 @@
     "alberto": {
       "m": {
         "preventivi": [
-          null,
-          null,
-          null,
-          null,
+          0,
+          0,
+          0,
+          0,
           null,
           null,
           null,
@@ -1997,11 +1997,11 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          38670,
+          10200,
+          54472,
+          36117,
+          0,
           null,
           null,
           null,
@@ -2011,11 +2011,11 @@
           null
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
+          17967,
+          36300,
+          22228,
+          18670,
+          37702,
           null,
           null,
           null,
@@ -2025,10 +2025,10 @@
           null
         ],
         "fatturato": [
-          null,
-          null,
-          null,
-          null,
+          24283,
+          33820,
+          18321,
+          21174,
           null,
           null,
           null,
@@ -2055,46 +2055,46 @@
           null
         ],
         "venduto": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          12346,
+          288,
+          20337,
+          13577,
+          25358,
+          10445,
+          13805,
+          1,
+          35150,
+          12670,
+          39486,
+          9200
         ],
         "ordinato": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          0,
+          9194,
+          3340,
+          20352,
+          38900,
+          2350,
+          3685,
+          7085,
+          22890,
+          17845,
+          18215,
+          25039
         ],
         "fatturato": [
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
+          9350,
+          5123,
+          10853,
+          34488,
+          15291,
+          6657,
+          4392,
+          24354,
+          18743,
+          18506,
+          26742
         ]
       },
       "m24": {
@@ -2222,9 +2222,8 @@
     "nicola": 20000
   },
   "deptTgts": {
-    "nicola:fatturato": 20000,
     "mike:fatturato": 150000,
-    "nicola:preventivi": 400,
+    "nicola:fatturato": 20000,
     "carlo:fatturato": 20000
   },
   "dismissed": []
