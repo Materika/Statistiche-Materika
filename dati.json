@@ -1,7 +1,7 @@
 {
   "v": 4,
-  "at": "2026-05-14T07:34:52.965Z",
-  "refM": 3,
+  "at": "2026-05-20T13:25:20.608Z",
+  "refM": 4,
   "period": "mese",
   "yc": {
     "23": {
@@ -753,8 +753,8 @@
               12
             ],
             [
-              null,
-              null,
+              12,
+              7,
               null,
               null,
               null
@@ -814,7 +814,7 @@
             null,
             50,
             50,
-            null,
+            40,
             null,
             null,
             null,
@@ -855,8 +855,8 @@
               2
             ],
             [
-              null,
-              null,
+              3,
+              2,
               null,
               null,
               null
@@ -916,7 +916,7 @@
             null,
             10,
             10,
-            null,
+            10,
             null,
             null,
             null,
@@ -957,8 +957,8 @@
               3
             ],
             [
-              null,
-              null,
+              2,
+              1,
               null,
               null,
               null
@@ -1018,7 +1018,7 @@
             null,
             10,
             10,
-            null,
+            10,
             null,
             null,
             null,
@@ -1059,8 +1059,8 @@
               56920
             ],
             [
-              null,
-              null,
+              56920,
+              0,
               null,
               null,
               null
@@ -1120,7 +1120,7 @@
             null,
             20000,
             20000,
-            null,
+            20000,
             null,
             null,
             null,
@@ -1161,8 +1161,8 @@
               3223
             ],
             [
-              null,
-              null,
+              3223.65,
+              0,
               null,
               null,
               null
@@ -1222,7 +1222,7 @@
             null,
             5000,
             5000,
-            null,
+            5000,
             null,
             null,
             null,
