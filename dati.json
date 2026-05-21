@@ -1,7 +1,7 @@
 {
   "v": 4,
-  "at": "2026-05-21T15:36:25.782Z",
-  "refM": 3,
+  "at": "2026-05-21T15:48:40.222Z",
+  "refM": 2,
   "period": "mese",
   "yc": {
     "23": {
@@ -1485,10 +1485,10 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
+              46,
+              28,
+              0,
+              48,
               null
             ],
             [
@@ -1558,7 +1558,7 @@
           "tgts": [
             null,
             null,
-            null,
+            75,
             75,
             75,
             null,
@@ -1587,10 +1587,10 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
+              9,
+              6,
+              0,
+              6,
               null
             ],
             [
@@ -1660,7 +1660,7 @@
           "tgts": [
             null,
             null,
-            null,
+            15,
             15,
             15,
             null,
@@ -1689,10 +1689,10 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
+              11,
+              8,
+              0,
+              12,
               null
             ],
             [
@@ -1762,7 +1762,7 @@
           "tgts": [
             null,
             null,
-            null,
+            12,
             12,
             12,
             null,
@@ -1791,11 +1791,11 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null
+              110612,
+              18763,
+              0,
+              36520,
+              3069
             ],
             [
               3069,
@@ -1864,7 +1864,7 @@
           "tgts": [
             null,
             null,
-            null,
+            20000,
             20000,
             20000,
             null,
@@ -1893,10 +1893,10 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
+              29178,
+              1650,
+              550,
+              1335,
               null
             ],
             [
@@ -1966,7 +1966,7 @@
           "tgts": [
             null,
             null,
-            null,
+            5000,
             5000,
             5000,
             null,
