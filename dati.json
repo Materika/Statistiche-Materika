@@ -1,6 +1,6 @@
 {
   "v": 4,
-  "at": "2026-05-26T09:03:33.982Z",
+  "at": "2026-05-26T09:03:35.423Z",
   "refM": 4,
   "period": "mese",
   "yc": {
@@ -2235,6 +2235,9 @@
     "mike:venduto:crit",
     "mike:ordinato:att",
     "mike:fatturato:crit",
-    "carlo:preventivi:crit"
+    "carlo:preventivi:crit",
+    "carlo:venduto:crit",
+    "carlo:ordinato:att",
+    "carlo:fatturato:crit"
   ]
 }
