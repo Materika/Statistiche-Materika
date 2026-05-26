@@ -1,6 +1,6 @@
 {
   "v": 4,
-  "at": "2026-05-26T09:03:57.812Z",
+  "at": "2026-05-26T09:03:59.868Z",
   "refM": 4,
   "period": "mese",
   "yc": {
@@ -2252,6 +2252,8 @@
     "nicola:app_wk:crit",
     "nicola:vis_wk:crit",
     "nicola:prev_wk:crit",
-    "materika:venduto:crit"
+    "materika:venduto:crit",
+    "nicola:vend_wk:crit",
+    "alberto:venduto:crit"
   ]
 }
